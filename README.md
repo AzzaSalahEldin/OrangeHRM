@@ -16,12 +16,6 @@ This is a Selenium-Cucumber-based test automation framework for validating key O
 | Allure Reports    | Test reporting and visualization                    |
 | Page Object Model | Design pattern for maintainable test structure      |
 
----
-
-## 📁 Project Structure
-
-
----
 
 ## ✅ Features Covered
 
@@ -42,4 +36,4 @@ This is a Selenium-Cucumber-based test automation framework for validating key O
 mvn test
 # Generate and View Allure Report
 	allure generate allure-results --clean -o allure-report
-allure open allure-report<img width="374" height="37" alt="image" src="https://github.com/user-attachments/assets/8f6450fb-6e0c-42b1-ae79-53cc87485967" />
+        allure open allure-report
