@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2405","Navigate to Admin tab and get initial user record count","","Thu Jul 17 23:59:00 GMT+03:00 2025","passed","Thu Jul 17 23:59:02 GMT+03:00 2025","","Test the OrangeHRM functionality","Navigate to Admin tab and get initial user record count",""
+"","11009","Add a new user to the system","","Thu Jul 17 23:59:02 GMT+03:00 2025","passed","Thu Jul 17 23:59:13 GMT+03:00 2025","","Test the OrangeHRM functionality","Add a new user to the system",""
+"","2785","Delete the newly added user and verify","","Thu Jul 17 23:59:14 GMT+03:00 2025","passed","Thu Jul 17 23:59:17 GMT+03:00 2025","","Test the OrangeHRM functionality","Delete the newly added user and verify",""
+"","3433","Login with valid username and password","","Thu Jul 17 23:58:47 GMT+03:00 2025","passed","Thu Jul 17 23:58:50 GMT+03:00 2025","","Test the OrangeHRM functionality","Login with valid username and password",""
+"","9757","Navigate to PIM tab and add new employee","","Thu Jul 17 23:58:50 GMT+03:00 2025","passed","Thu Jul 17 23:59:00 GMT+03:00 2025","","Test the OrangeHRM functionality","Navigate to PIM tab and add new employee",""
+"","962","Search for the newly added user","","Thu Jul 17 23:59:13 GMT+03:00 2025","passed","Thu Jul 17 23:59:14 GMT+03:00 2025","","Test the OrangeHRM functionality","Search for the newly added user",""
